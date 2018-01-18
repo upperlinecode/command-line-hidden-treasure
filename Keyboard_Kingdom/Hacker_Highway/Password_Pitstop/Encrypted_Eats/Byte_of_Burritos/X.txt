@@ -1,0 +1,2 @@
+Make your computer speak with the say command.
+Type: say "hey whatsup, hello" to make your computer say hey whatsup, hello in the default system voice.

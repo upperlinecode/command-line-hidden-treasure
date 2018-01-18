@@ -1,0 +1,2 @@
+Want to create your own files?
+Use the touch command to make new ones. By typing touch filename with the filename you want, you'll be able to create your own files to add to computer_land. 

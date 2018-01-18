@@ -1,0 +1,2 @@
+Want to create a new folder and build out Computer Land more?
+Use the command mkdir *filename* to create to folders that you can name yourself. Make sure to find all of the treasures before you jump into building more places.

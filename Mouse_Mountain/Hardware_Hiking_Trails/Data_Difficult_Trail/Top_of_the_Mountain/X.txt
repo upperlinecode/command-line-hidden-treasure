@@ -1,0 +1,2 @@
+Getting tired of typing a million commands to move a few folders?
+Try chaining together locations to move faster. For example, cd ../../../Buffer_Beginner_Trail will get you all the way into the Buffer_Beginner_Trail folder.  Make sure to put the "/" in between each of the locations.
