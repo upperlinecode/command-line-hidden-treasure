@@ -44,7 +44,7 @@ Now that we've got the basics down, let's have some fun. This repository contain
 Before you get started, make sure you're in the correct folder. If you run the command pwd in your terminal, the output should end in "command-line-hidden-treasure".
 
 #### Task
-You'll be moving through the folders in this repository using the command line and looking for files called "X". As well all know, X marks the spot. Be sure to use the ls command to see what is inside each folder you enter. Inside each file "X" will be a new command that you can use in the command line, so look carefully! Every file will have a .txt extension, so anything that doesn't end in .txt is a folder and a potential treasure filled location.
+You'll be moving through the folders in this repository using the command line and looking for files called "X.txt". As we all know, X marks the spot. Be sure to use the ls command to see what is inside each folder you enter. Inside each file "X.txt" will be a new command that you can use in the command line, so look carefully! Every file will have a .txt extension, so anything that doesn't end in .txt is a folder and a potential treasure filled location.
 
 There are 5 X's total, so ready, set, and happy treasure hunting....
 
